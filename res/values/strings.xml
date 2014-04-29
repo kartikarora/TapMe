@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="title">Tap The Text For Some Fun!</string>
+    <string name="app_name">TapMe</string>
+    <string name="tap_anywhere">Tap Anywhere!</string>
+    <string name="lol">This Shall Change</string>
+
+</resources>
